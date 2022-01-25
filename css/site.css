@@ -31,7 +31,7 @@ h1,
 body {
 	font-family: var(--jm-body-font);
 	color: var(--jm-dark-color);
-	background-color: var(--jm-primary-color);
+	background-color: var(--jm-light-color);
 	font-weight: var(--jm-font-weight);
 	font-size: var(--jm-font-size);
 	line-height: var(--jm-line-height);
@@ -48,8 +48,8 @@ body {
 
 .mainTitle {
 	font-family: var(--title-font);
-	font-size: 2rem;
-	line-height: 1.5rem;
+	font-size: 3rem;
+	line-height: 2.5rem;
 }
 
 /* Sizing the logo for the header  */
