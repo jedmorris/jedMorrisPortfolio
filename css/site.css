@@ -94,7 +94,9 @@ body {
 	color: var(--jm-light-color)
 }
 
-
+.jmLogo {
+	color: var(--jm-light-color);
+}
 
 /* ---------MEDIA QUERIES--------- */
 /* Small Devices Landscape Phones 576px and Up  */
