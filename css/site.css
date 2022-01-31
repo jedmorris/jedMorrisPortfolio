@@ -166,7 +166,7 @@ body {
 	.maintitle {
 		font-family: var(--title-font);
 		font-size: 9rem;
-		line-height: 5rem;
+		line-height: 9rem;
 	}
 
 	/* Sizing the logo for the header  */
